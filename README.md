@@ -22,7 +22,7 @@ My GitHub Stats 📊
 <a href="https://github.com/oo1o">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=oo1o&show_icons=true&theme=gotham" alt="oo1o" />
 </a>
-<a href="https://github.com/oo1o/naplon">
+<a href="https://github.com/oo1o">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oo1o" />
 </a>
 
