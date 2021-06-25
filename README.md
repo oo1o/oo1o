@@ -7,7 +7,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=oo1o.oo1o)
 
-<img src = "https://github.com/rahulbanerjee26/rahulbanerjee26/blob/main/hFZ.gif" width = 50px>
+<img src = "https://i.gifer.com/LsZ0.gif" width = 50px>
 Hi! My name is Rahul. Thank You for taking the time to view my GitHub Profile 
 <br />
 
