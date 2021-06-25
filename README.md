@@ -28,6 +28,7 @@ My GitHub Stats 📊
 
 If you like what I do, you might consider buying a coffee for me
 <a href="https://www.buymeacoffee.com/naplon" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oo1o&langs_count=8)](https://github.com/oo1o)
 
 
 - 🔭 I’m currently working on my site
