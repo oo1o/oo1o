@@ -19,17 +19,9 @@ Hi! My name is Rahul. Thank You for taking the time to view my GitHub Profile
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-
-📊 **I have knowledge:**
-```text
-Python         █████████████████████▒░░░   80% 
-PHP            ████████████░░░░░░░░░░░░░   50% 
-Javascript     ██░░░░░░░░░░░░░░░░░░░░░░░   30% 
-HTML & CSS     █████████████████████████░   90% 
-```
 My GitHub Stats 📊
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=oo1o&count_private=true&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=oo1o&show_icons=true&theme=gotham" alt="oo1o" />
 </a>
 <a href="https://github.com/oo1o/naplon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oo1o" />
@@ -37,13 +29,6 @@ My GitHub Stats 📊
 
 If you like what I do, you might consider buying a coffee for me
 <a href="https://www.buymeacoffee.com/naplon" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-
-
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=oo1o&show_icons=true&theme=gotham" alt="oo1o" />
-
 
 
 - 🔭 I’m currently working on my site
