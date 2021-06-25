@@ -13,6 +13,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=oo1o.oo1o)
 
+[![Braydon's GitHub Banner](./image.png/photo8.png)](https://braydoncoyer.dev)
 <br />
 
 **Languages and Tools:**  
