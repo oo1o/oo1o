@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://media.wired.com/photos/607a45294a631f5d3ad59527/master/pass/Oped-AI-hacking-669869162.jpg)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/![image](https://user-images.githubusercontent.com/79853898/123429810-10ff1b00-d5d0-11eb-91b2-ec00050f7b87.png) "Header")](https://some-url.dev/)
+
 
 
 
