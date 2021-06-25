@@ -7,8 +7,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=oo1o.oo1o)
 
-<img src = "https://i.gifer.com/LsZ0.mp4" width = 50px>
-Hi! My name is Rahul. Thank You for taking the time to view my GitHub Profile 
+Hi! My name is Naplon. Thank You for taking the time to view my GitHub Profile 
 <br />
 
 **Languages and Tools:**  
