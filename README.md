@@ -27,6 +27,13 @@ PHP            ████████████░░░░░░░░░�
 Javascript     ██░░░░░░░░░░░░░░░░░░░░░░░   30% 
 HTML & CSS     █████████████████████████░   90% 
 ```
+My GitHub Stats 📊
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=oo1o&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/oo1o/naplon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oo1o" />
+</a>
 
 If you like what I do, you might consider buying a coffee for me
 <a href="https://www.buymeacoffee.com/naplon" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
