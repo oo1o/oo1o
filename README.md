@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://t.me/c/1249514546/159)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://media.wired.com/photos/607a45294a631f5d3ad59527/master/pass/Oped-AI-hacking-669869162.jpg)
 
 
 
