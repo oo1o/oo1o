@@ -19,7 +19,7 @@ Hi! My name is Naplon. Thank You for taking the time to view my GitHub Profile
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 My GitHub Stats 📊
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/oo1o/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=oo1o&show_icons=true&theme=gotham" alt="oo1o" />
 </a>
 <a href="https://github.com/oo1o/naplon">
