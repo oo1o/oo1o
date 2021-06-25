@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/_naplon)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=1CA2F1)](https://www.instagram.com/3h6h/)
-[![Snapchat Badge](https://img.shields.io/badge/Snapchat-Profile-informational?style=flat&logo=snapchat&logoColor=white&color=1CA2F1)](https://snapchat.com/ii42)
+[![Snapchat Badge](https://img.shields.io/badge/Snapchat-Profile-informational?style=flat&logo=snapchat&logoColor=white&color=1CA2F1)](https://snapchat.com/add/ii42)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=1CA2F1)](https://t.me/naplon0)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=oo1o.oo1o)
